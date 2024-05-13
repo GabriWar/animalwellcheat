@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Cheat by"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Animal Well.exe"+2CF4694</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>85</Key>
+          </Keys>
+          <Value>7000000</Value>
+          <Description>up</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>74</Key>
+          </Keys>
+          <Value>5000000</Value>
+          <Description>down</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"GabriWar"</Description>
+      <Color>0000FF</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Animal Well.exe"+2CF4690</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>75</Key>
+          </Keys>
+          <Value>10000000</Value>
+          <Description>right</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>72</Key>
+          </Keys>
+          <Value>10000000</Value>
+          <Description>left</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"press H U J K to teleport "</Description>
+      <Color>00FFFF</Color>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"works with game paused :P"</Description>
+      <Color>00FF80</Color>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
